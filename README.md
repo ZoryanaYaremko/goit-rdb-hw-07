@@ -1,5 +1,6 @@
 # goit-rdb-hw-07
 USE hw3;
+
 --  1. Витягнути рік, місяць і день з date
 SELECT 
     id,
